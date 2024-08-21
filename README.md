@@ -2,11 +2,9 @@
 
 Meu nome é Vitoria Cristina
 
--Estou estudando no [Alura](https://www.alura.com.br)
-
--Estou me desenvolvendo na linguagem JavaScrpt
-
--Ultilizo espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+•Estou estudando no [Alura](https://www.alura.com.br)
+•Estou me desenvolvendo na linguagem JavaScrpt
+•ultilizo espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar contato comigo 📁
 
